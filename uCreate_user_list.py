@@ -9,15 +9,3 @@ def Int_list_create():
 def Float_list_create():
     float_list = list(map(float,input('введите вещественные числа через пробел ').split()))
     return float_list
-
-
-# def Int_tupple_create():
-#     ....
-
-
-# def Float_tupple_create():
-#     ....
-
-
-# def Any_Dict():
-#     ....
